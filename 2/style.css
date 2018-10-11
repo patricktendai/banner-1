@@ -1,0 +1,12 @@
+.jumbotron-fluid{
+    background: url("a.jpg");
+    background-size: cover;
+    
+    opacity: 0.80;
+    color: white;
+    height: 500px;
+    
+}
+.banner{
+    margin-top: 15%;
+}
